@@ -10,7 +10,7 @@ A simple Node.js command-line tool to fetch and display the recent public GitHub
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/github-user-activity.git
+git clone https://github.com/Iqbalshah0987/github-user-activity.git
 cd github-user-activity
 ```
 
